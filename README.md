@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Sou+desenvolvedor+fullstack;%F0%9F%91%BE+Sou+apaixonado+por+programa%C3%A7%C3%A3o;%E2%9A%BD+Gosto+de+jogar+futebol;%F0%9F%8E%AE+Amo+jogar+videogame)](https://git.io/typing-svg)
 
-### 💻 Desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualmente, curso Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG), onde faço formação transversal com engenharia de software.
-
-🚀 Tenho experiência com Node.js, React, Express, HTML, CSS, Styled-components e outras tecnologias do ecossistema web. Gosto de construir aplicações eficientes, escaláveis e criativas.
+### 💻 Desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualmente, curso Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG), onde faço formação transversal com engenharia de software. Tenho experiência com Node.js, React, Express, HTML, CSS, Styled-components e outras tecnologias do ecossistema web. Gosto de construir aplicações eficientes, escaláveis e criativas.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasOtsuAkatsuka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
