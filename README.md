@@ -48,4 +48,5 @@
 <!--
 <img src="https://raw.githubusercontent.com/LucasOtsuAkatsuka/LucasOtsuAkatsuka/output/snake.svg" alt="Snake animation" />
 
-###
+-->
+### 😊 Obrigado pela sua visita! 
