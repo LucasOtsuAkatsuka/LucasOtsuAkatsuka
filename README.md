@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas Akatsuka
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=3C38F7&width=435&lines=Sou+desenvolvedor+fullstack;Amo+jogar+videogame;Gosto+de+fazer+esportes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=3C38F7&width=435&lines=Sou+desenvolvedor+fullstack;Sou+apaixonado+por+programa%C3%A7%C3%A3o;Gosto+de+fazer+esportes;Amo+jogar+videogame)](https://git.io/typing-svg)
 
 ###
 
