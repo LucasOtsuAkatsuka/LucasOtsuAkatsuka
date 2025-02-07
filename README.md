@@ -6,6 +6,8 @@
 
 ##### 💻 Bem vindo(a) ao meu github! Sou desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualmente, curso Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG), onde faço formação transversal com engenharia de software. Combino o aprendizado adquirido no meu curso com a engenharia de software, afim de desenvolvedor projetos eficientes, criativos e únicos. Estou sempre buscando aprender tecnologias novas para edificar meus conhecimentos. Acredito que o céu é o limite e que nunca devemos deixar de aprender coisas novas!
 
+
+### Estatísticas do meu github:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasOtsuAkatsuka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasOtsuAkatsuka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
