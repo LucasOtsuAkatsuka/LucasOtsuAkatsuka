@@ -14,7 +14,7 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm54ZXJ1Y3JqcnJpbDhyM2d6cDBuN2x1NG91ZmwzeWdqb2g2bTFweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
-###Tecnologias usadas no dia a dia: 
+### Tecnologias usadas no dia a dia: 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
