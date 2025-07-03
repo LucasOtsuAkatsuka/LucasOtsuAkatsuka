@@ -4,7 +4,7 @@
 
 ###
 
-#### 💻 Bem vindo(a) ao meu github! Sou desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualmente, curso Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG), onde faço formação transversal com engenharia de software. Combino o aprendizado adquirido no meu curso com a engenharia de software, afim de desenvolvedor projetos eficientes, criativos e únicos. Estou sempre buscando aprender tecnologias novas para edificar meus conhecimentos. Acredito que o céu é o limite e que nunca devemos deixar de aprender coisas novas!
+#### 💻 Bem vindo(a) ao meu github! Sou estudante de Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG). Estou sempre buscando aprender tecnologias novas para edificar meus conhecimentos.
 
 
 ### Estatísticas do meu github:
